@@ -6,10 +6,10 @@ O seu dever é criar um script para purificar esses dados e utilizá-los em seu 
 
 A purificação consiste em retirar os caracteres especiais contidos no nome.
 
-Input Format
+Input Format:
 A entrada será sempre uma string representando um nome corrompido com alguns dos seguintes caracteres !@#$%&*().
 
-Output Format
+Output Format:
 A saída deverá ser sempre uma string representando o nome purificado sem os seguinte caracteres especiais !@#$%&*().
 
 
