@@ -9,12 +9,12 @@ A purificação consiste em retirar os caracteres especiais contidos no nome.
 Input Format
 A entrada será sempre uma string representando um nome corrompido com alguns dos seguintes caracteres !@#$%&*().
 
-Sample Input
+# Sample Input
 *Canis %lupus )familiaris
 
 
 Output Format
 A saída deverá ser sempre uma string representando o nome purificado sem os seguinte caracteres especiais !@#$%&*().
 
-Sample Output
+# Sample Output
 Canis lupus familiaris
